@@ -1,0 +1,19 @@
+{
+  "name": "babynet",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "16.8.3",
+    "react-native": "0.59.0-rc.3",
+    "react-native-dialogflow": "^3.2.2",
+    "react-native-elements": "^1.1.0",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-gifted-chat": "^0.7.3",
+    "react-native-vector-icons": "^6.4.2",
+    "react-native-voice": "^0.2.6",
+    "react-navigation": "^3.8.1"
+  }
+}
